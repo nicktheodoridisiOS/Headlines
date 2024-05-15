@@ -1,8 +1,14 @@
 ### Headlines Mobile Application
-<img alt="cover" src="https://github.com/nicktheodoridisiOS/Headlines/assets/122683142/4def2783-233e-44f9-93cd-87fa6b959d5b">
+<img width="1200" alt="cover" src="https://github.com/nicktheodoridisiOS/Headlines/assets/122683142/4def2783-233e-44f9-93cd-87fa6b959d5b">
 
 ### About Application
 Headlines, an iOS app developed in Swift, serves as a dynamic news hub, keeping users informed with curated top stories and allowing personalization of news feeds. It enables seamless sharing of articles and offers saving favorite pieces to a personal library.
+
+### User Preferences
+<img width="1200" alt="preferences" src="https://github.com/nicktheodoridisiOS/Headlines/assets/122683142/ac127924-55c4-4358-9885-04cacefbcd10">
+
+### Dark Mode Display
+<img width="1200" alt="display" src="https://github.com/nicktheodoridisiOS/Headlines/assets/122683142/0005c965-1e77-4b92-b2a8-972a8c1029b6">
 
 ### Persist Data and Data Synchronization
 <img width="80" alt="preferences" src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png">
